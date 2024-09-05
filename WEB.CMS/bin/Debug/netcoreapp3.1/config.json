@@ -1,0 +1,23 @@
+{
+  "EncryptApi": "5fDmJ8Ze",
+  "BOT_TOKEN_TELEGRAM": "1264151832:AAFKCM7CoaBerVhcYCHQba1AyY13X41rT5s",
+  "GROUP_ID_TELEGRAM": "-406438822",
+  "INDEX_ES_PRODUCT": "usexpress_products",
+  "email": "usexpressvietnam@gmail.com",
+  "password_email": "usexpress2018",
+  "KEY_ENCODE_TOKEN_PUT_QUEUE": "AAFKCM7CoaBerVhcYCHQba1AyY13X41rT5s",
+  "API_CMS_URL": "http://103.74.121.155:4455",
+  "API_USEXPRESS": "https://usexpress.vn",
+  "API_ADD_PRODUCT_CLASSIFICATION": "/api/QueueService/product-push.json",
+  "API_GET_RATE_USD": "/ApiUsexpress/USD_VND?token=235d6328b88e1f59165a985204d84edb",
+  "API_CREATE_PRODUCT_MANUAL": "/apiUsexpress/createNewProductManual",
+  "API_LOCK_PRODUCT_MANUAL": "/apiUsexpress/LockProductManual",
+  "API_REMOVE_SHIPPING_FEE": "/shipingfee/remove/",
+  "API_REMOVE_LUXURY_FEE": "/luxuryfee/remove/",
+  "API_GET_DETAIL_PRODUCT": "/apiUsexpress/getDetailProductManual",
+  "API_RESET_PASSWORD_DEFAULT": "/apiUsexpress/resetPassword",
+  "API_CRAWL_DETAIL_PRODUCT": "/api/product/detail-test.json",
+  "API_PUSH_DATA_TO_QUEUE": "/api/QueueService/data-push.json",
+  "KEY_TOKEN_API": "1372498309AAH0fVJfnZQFg5Qaqro47y1o5mIIcwVkR3k",
+  "API_RATE_CURRENT": "/api/ServicePublic/rate.json"
+}

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Repositories": {
+      "commandName": "Executable",
+      "nativeDebugging": true
+    }
+  }
+}
